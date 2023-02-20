@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - DrDoom-EvoGen
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DrDoom-EvoGen/WMF_DeNovoTranscriptome
+  - DrDoom-EvoGen/WMF_RNAseq_1
+
