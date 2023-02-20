@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-20
 inline: true
 ---
 
-A simple inline announcement.
+New publication: [
+Transcriptional responses to 2, 4-D herbicide treatment of a Eurasian (Myriophyllum spicatum) and a hybrid (M. spicatum× M. sibiricum) genotype of watermilfoil that differ in their sensitivity to 2, 4-D](https://www.sciencedirect.com/science/article/abs/pii/S0304377023000165)

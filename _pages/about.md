@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD in Evolutionary Genomics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Montana State University</p>
+    <p>Plant Bioscience Blding</p>
+    <p>Bozeman, MT 59717</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I earned my MSc in Aquatic Science from Grand Valley State University’s Robert B. Annis Water Resources Institute, where I used molecular markers to determine the population structure and movement of an exploited fish species. My work there was ultimately used to redefine catch limits and management units of this fish species (see publications). I earned my PhD in Plant Genetics from the Plant Science and Plant Pathology Department at Montana State University in December 2021, where I developed my skills in genomics, working on invasive aquatic plants. Since then, I have been working as a post-doctoral researcher in Dr. Ryan A. Thum’s Lab at Montana State University, continuing to apply evolutionary genomics techniques for the better management of aquatic invasive plants. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have extensive experience in population genetics and genomics of various species. Generally, my work has focused on applying population genetics and evolutionary concepts to better manage species. I use genetic markers to determine population structuring and diversity and identify cryptic species. I use whole genome sequencing to determine genes of management interest. And, I use whole RNA sequencing (RNA-seq) to determine gene expression differences that are important for management. I have also been involved in the sequencing and assembly of the *Myriophyllum spicatum* genome and have been using RNA-seq data to annotate genes in the genome. 
