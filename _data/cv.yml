@@ -1,3 +1,11 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Gregory M. Chorak
+    - name: Title
+      value: Post-Doctoral Researcher
+
 - title: Experience
   type: time_table
   contents:
@@ -10,21 +18,14 @@
 - title: Skills
   type: map
   contents:
-    - 10 years of experience in R
-    - 5 years of shell and high-performance computing cluster experience (cloud computing)
-    - 3 years of experience in Python
-    - Less than 1 year SQL
-    - Experienced in version control using Git and GitHub
-    - Experienced in data analyses of large next-generation sequencing datasets  
-    - Proficient in statistical analyses and models     
-
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Gregory M. Chorak
-    - name: Title
-      value: Post-Doctoral Researcher
+    description:
+      - 10 years of experience in R
+      - 5 years of shell and high-performance computing cluster experience (cloud computing)
+      - 3 years of experience in Python
+      - Less than 1 year SQL
+      - Experienced in version control using Git and GitHub
+      - Experienced in data analyses of large next-generation sequencing datasets  
+      - Proficient in statistical analyses and models     
 
 - title: Education
   type: time_table
