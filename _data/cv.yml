@@ -1,3 +1,23 @@
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post-Doctoral Researcher
+      institution: Montana State University
+      year: 2022 - Present
+      description:
+        Aquatic plant evolutionary genomics. I am using whole genome sequencing and RNA sequencing to identify quantitative trait loci and transcriptional differences in aquatic plants to predict herbicide resistance. This position is funded by a US Army Corps of Engineers grant that I co-wrote during my PhD.
+
+- title: Skills
+  type: map
+  contents:
+    - 10 years of experience in R
+    - 5 years of shell and high-performance computing cluster experience (cloud computing)
+    - 3 years of experience in Python
+    - Less than 1 year SQL
+    - Experienced in version control using Git and GitHub
+    - Experienced in data analyses of large next-generation sequencing datasets  
+    - Proficient in statistical analyses and models     
+
 - title: General Information
   type: map
   contents:
@@ -32,14 +52,6 @@
         - Evolution 
         - Biology
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Post-Doctoral Researcher
-      institution: Montana State University
-      year: 2022 - Present
-      description:
-        Aquatic plant evolutionary genomics. I am using whole genome sequencing and RNA sequencing to identify quantitative trait loci and transcriptional differences in aquatic plants to predict herbicide resistance. This position is funded by a US Army Corps of Engineers grant that I co-wrote during my PhD.
 
 #- title: Honors and Awards
 #  type: time_table
