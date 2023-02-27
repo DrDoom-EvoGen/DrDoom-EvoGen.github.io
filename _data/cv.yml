@@ -16,7 +16,7 @@
         Aquatic plant evolutionary genomics. I am using whole genome sequencing and RNA sequencing to identify quantitative trait loci and transcriptional differences in aquatic plants to predict herbicide resistance. This position is funded by a US Army Corps of Engineers grant that I co-wrote during my PhD.
 
 - title: Skills
-  type: map
+  type: time_table
   contents:
     description:
       - 10 years of experience in R
