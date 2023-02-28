@@ -22,4 +22,4 @@ I earned my MSc in Aquatic Science from Grand Valley State University’s Robert
 
 I have extensive experience in population genetics and genomics of various species. Generally, my work has focused on applying population genetics and evolutionary concepts to better manage species. I use genetic markers to determine population structuring and diversity and identify cryptic species. I use whole genome sequencing to determine genes of management interest. And, I use whole RNA sequencing (RNA-seq) to determine gene expression differences that are important for management. I have also been involved in the sequencing and assembly of the *Myriophyllum spicatum* genome and have been using RNA-seq data to annotate genes in the genome. 
 
-![][/assets/img/DSC00994.jpg]
+![Mountains](/assets/img/DSC00994.jpg)
