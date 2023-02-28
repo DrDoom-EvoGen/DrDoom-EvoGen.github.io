@@ -21,7 +21,8 @@
     - title: Technical Skills
       description:
         - 10 years of experience in R
-        - 5 years of shell and high-performance computing cluster experience (cloud computing)
+        - 5 years of experience in Unix shell 
+        - 5 years of experience in high-performance cloud computing
         - 3 years of experience in Python
         - Less than 1 year SQL
         - Experienced in version control using Git and GitHub
@@ -41,7 +42,7 @@
         - Invasive Plants   
         - Aquatic Plants  
     - title: MSc
-      institution: Grand Valley State University
+      institution: Grand Valley State University Robert B. Annis Water Resources Institute
       year: 2017
       description:
         - Evolution 
